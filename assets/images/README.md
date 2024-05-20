@@ -1,1 +1,1 @@
-Various images show continuous improvement on the report visual.
+Power BI images show continuous improvement on the report visual.
