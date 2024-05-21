@@ -41,7 +41,7 @@
 
 ### Key Pain Point
 
-The Head of Marketing in aims to identify the top YouTubers in the UK for 2024 to determine which influencers would be most effective for marketing campaigns throughout the year.
+Identify the top YouTubers in the UK for 2024 to determine which influencers would be most effective for marketing campaigns throughout the year.
 
 ### Ideal Solution
 
