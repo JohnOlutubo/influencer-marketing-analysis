@@ -1,7 +1,7 @@
 # John Olutubo
 
 
-## YouTube Influencer marketing Analytics Project 
+## YouTube Influencer Marketing Data Analytics Project 
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
