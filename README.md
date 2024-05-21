@@ -808,3 +808,4 @@ Engagements with the marketing client will be initiated to align on expected out
 
 
 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/john-olutubo-6b109219b/)
