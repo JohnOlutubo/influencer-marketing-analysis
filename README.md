@@ -80,7 +80,7 @@ The data is sourced from Kaggle (an Excel extract). [Access the dataset here.](h
 ## Stages
 
 - Design
-- Developement
+- Development
 - Testing
 - Analysis 
  
@@ -176,7 +176,7 @@ Expected schema:
 ### Transforming the data
 
 1. Unnecessary columns are removed by selectively retaining those deemed necessary.
-2. Youtube channel names are extracted from the first column.
+2. YouTube channel names are extracted from the first column.
 3. Column renaming is performed utilizing aliases.
 
 
