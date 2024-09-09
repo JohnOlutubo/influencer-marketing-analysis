@@ -3,7 +3,7 @@
 
 ## Data Analytics Project
 
-### YouTube Influencer Marketing 
+### Influencer Marketing Analysis
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
@@ -43,7 +43,7 @@
 
 ### Key Pain Point
 
-Identify the top YouTubers in the UK for 2024 to determine which influencers would be most effective for marketing campaigns throughout the year.
+Identify the top YouTube Influencers in the UK for 2024 to determine which influencers would be most effective for marketing campaigns throughout the year.
 
 ### Ideal Solution
 
@@ -319,7 +319,7 @@ HAVING
 
 ![Top UK Youtubers 2024 Dashboard GIF](assets/images/top_uk_youtubers_2024.gif)
 
-This visualization showcases the current standings of the Top UK Youtubers for the year 2024.
+This visualization showcases the current standings of the Top UK Youtube Influencers for 2024.
 
 
 
