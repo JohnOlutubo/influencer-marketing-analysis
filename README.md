@@ -34,7 +34,6 @@
 - [Recommendations](#recommendations)
   - [Potential ROI](#potential-roi)
   - [Action Plan](#action-plan)
-- [Conclusion](#conclusion)
 
 
 
