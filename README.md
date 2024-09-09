@@ -58,7 +58,7 @@ This dashboard will enable the marketing team to make informed decisions on coll
 
 ### User Story
 
-As the Head of Marketing, a dashboard analyzing YouTube channel data in the UK is needed to identify top-performing channels based on metrics such as subscriber base and average views. This will help in making informed collaboration decisions, maximizing the effectiveness of marketing campaigns.
+As the Head of Marketing, I need a dashboard analyzing YouTube channel data in the UK to identify top-performing channels based on metrics such as subscriber base and average views. This will help make informed collaboration decisions, maximizing the effectiveness of marketing campaigns.
 
 
 ## Data Source
